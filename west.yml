@@ -237,7 +237,7 @@ manifest:
       remote: throwtheswitch
     - name: memfault-firmware-sdk
       path: modules/lib/memfault-firmware-sdk
-      revision: 0.43.3
+      revision: 1.2.2
       remote: memfault
     - name: ant
       repo-path: sdk-ant
